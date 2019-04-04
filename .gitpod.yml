@@ -1,0 +1,4 @@
+image:
+  file: Dockerfile.gitpod
+tasks:
+    - init: make clean && make git-submodule
